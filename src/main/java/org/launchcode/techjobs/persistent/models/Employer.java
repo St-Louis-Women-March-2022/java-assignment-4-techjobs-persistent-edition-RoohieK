@@ -36,8 +36,8 @@ public class Employer extends AbstractEntity {
         this.location = location;
     }
 
-    @Override
-    public String toString() {
-        return location;
-    }
+//    @Override
+//    public String toString() {
+//        return location;
+//    }
 }
